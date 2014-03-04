@@ -1,0 +1,6 @@
+Two Tier Web Application using PHP and MySQL running on AWS
+
+http://www.alexkorn.com/blog/2011/03/getting-php-mysql-running-amazon-ec2/
+                                                 
+
+ec2-54-201-172-14.us-west-2.compute.amazonaws.com
